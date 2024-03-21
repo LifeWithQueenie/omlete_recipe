@@ -131,7 +131,7 @@ padding: 3px;
   td:nth-child(2) {
   color: hsl(14, 45%, 36%);
 }
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 325px) {
     /* Adjustments for smaller screens */
     .image-container2 {
         max-width: 90%; /* Adjust container width */
