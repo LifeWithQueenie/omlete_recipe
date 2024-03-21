@@ -135,7 +135,7 @@ padding: 3px;
     /* Adjustments for smaller screens */
     .image-container2 {
         max-width: 50%; /* Adjust container width */
-        margin-top: 10%; /* Adjust top margin */
+        margin-top: 100%; /* Adjust top margin */
     }
     .overlay-text2 {
         font-size: 12px; /* Adjust font size */
