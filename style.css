@@ -135,8 +135,10 @@ padding: 3px;
     /* Adjustments for smaller screens */
     .image-container2 {
         max-width: 50%; /* Adjust container width */
-        margin-top: 50px; /* Adjust top margin */
-  
+        margin: auto; /* Center the container horizontally */
+        margin-top: 20%; /* Set margin-top to create space */
+        top: 0; /* Set top to 0 to ensure proper alignment */
+        position: relative; /* Set position to relative */
     }
     .overlay-text2 {
         font-size: 12px; /* Adjust font size */
